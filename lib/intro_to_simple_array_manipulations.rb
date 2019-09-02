@@ -27,9 +27,7 @@ def using_concat(favorite_song,favorite_artist)
 end
 
 def using_insert(a,b)
-  
-  
-  
+  a.insert(4, Python)
 end
 
 def using_uniq(zaheer)
