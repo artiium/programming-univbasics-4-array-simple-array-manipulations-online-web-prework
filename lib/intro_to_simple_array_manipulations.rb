@@ -26,7 +26,7 @@ def using_concat(favorite_song,favorite_artist)
   favorite_song.concat(favorite_artist)
 end
 
-def using_insert(a,b,c,d,e,f,g)
+def using_insert(a,b)
   
   
 end
