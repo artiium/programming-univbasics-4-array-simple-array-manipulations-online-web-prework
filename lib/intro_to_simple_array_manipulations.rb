@@ -27,6 +27,7 @@ def using_concat(favorite_song,favorite_artist)
 end
 
 def using_insert(python,html)
+  html.insert
   
 end
 
